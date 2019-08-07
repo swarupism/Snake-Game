@@ -1,7 +1,5 @@
 // Snakes Game
 
-//Game Loop - Init, Draw, Update,
-
 function init(){
     
    // console.log("Init");
@@ -45,7 +43,7 @@ function gameLoop(){
 }
 
 init();
-//Call Game Looper after t time
+
 setInterval(gameLoop,100);
 
 
