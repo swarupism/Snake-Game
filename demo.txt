@@ -3,7 +3,7 @@ Orange
 Yellow
 Blue
 Black
-Red
+Green
 Green
 Violet
 Grey
