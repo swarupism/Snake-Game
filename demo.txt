@@ -3,8 +3,12 @@ Orange
 Yellow
 Blue
 Black
-Green
+Magenta
 Green
 Violet
 Grey
 Pink
+Purple
+Violet
+White
+Done...
