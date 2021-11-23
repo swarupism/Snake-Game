@@ -12,18 +12,20 @@ int main() {
     for (int i = 1; i <= n; ++i) {
         // Prints the first two terms.
         if(i == 1) {
-            cout << t1 << ", ";
+            cout << t1 << " ";
             continue;
         }
         if(i == 2) {
-            cout << t2 << ", ";
+            cout << t2 << " ";
             continue;
         }
         nextTerm = t1 + t2;
         t1 = t2;
         t2 = nextTerm;
         
-        cout << nextTerm << ", ";
+        cout << nextTerm << " ";
     }
+    
+    cout << "Task completed" << endl;
     return 0;
 }
